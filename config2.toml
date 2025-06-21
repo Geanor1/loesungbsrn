@@ -1,0 +1,6 @@
+[user]
+handle = "Taha"
+port = 5000
+whoisport = 4001
+autoreply = "Ich bin gerade nicht da."
+imagepath = "received_images/"
